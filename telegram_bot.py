@@ -10,7 +10,7 @@ from telebot import types
 import traceback
 
 # --- إعدادات البوت ---
-API_TOKEN = '8502584740:AAF4Aw5mhl9HS2q9KLZuxmqD5D7S0oHRBqY'
+API_TOKEN = '8502584740:AAEbJ7j3DD9dQ3ADwJsYLkqBItgTUGNA-MY'
 DEV_USERNAME = "@DRGAM"
 GATEWAY_NAME = "PayPal_CVV_Custom [$1]"
 OWNER_ID = 1427023555
